@@ -48,7 +48,7 @@ spec:
           protocol: TCP
         command:
         - ./podinfo
-        - --ui-message='Welcome message'
+        - --ui-message='Hello Sriprasanna'
         - --port=9898
         - --port-metrics=9797
         - --grpc-port=9999
